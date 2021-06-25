@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akshat Arora
+- 👀 I’m interested in Flutter Development, Anroid Development, Firebase, Web development.
+- 🌱 I’m currently persuing B.tech in CSE with specialization in Artificial Intelligence and I'm currently in 4th year.
+- 💞️ I’m looking to collaborate on any development or business related opportunities
+- 📫 How to reach me on my gmail akshat.arora456@gmail.com
