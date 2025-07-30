@@ -1,29 +1,81 @@
-# Hi, I'm Akshat Arora! 👋
+# Akshat Arora
 
-I'm a software developer with experience in Flutter, SwiftUI, JS, HTML, CSS, and React. I'm passionate about building user-friendly, scalable, and maintainable applications. 
+**Full Stack Developer | Systems Thinker | Builder of Practical Tools**
 
-## 🔭 What I'm currently working on
+I build resilient, scalable applications that do one thing exceptionally well: **deliver utility without friction**.  
+From architecture to interface, every decision is deliberate — built to last, built to perform.
 
-I'm currently working on developing a mobile application using Flutter and a web application using React and persuing Mobile Solutions Development from Conestoga College.
+---
 
-## 🌱 What I'm currently learning
+## Now Shipping: API Vault
 
-I'm currently learning advanced techniques in Flutter, such as custom animations, complex layouts, and integrating with backend APIs. I'm also learning about React Native and exploring its capabilities.
+A full-stack application to store, manage, and retrieve APIs with precision.  
+No bloat. Just structure, access control, and developer-first design.
 
-## 💬 Ask me about
+**Tech Stack**  
+- **Frontend**: Next.js 14, TailwindCSS  
+- **Backend**: Next.js Route Handlers, REST APIs  
+- **ORM**: Prisma  
+- **Database**: PostgreSQL  
+- **Auth**: NextAuth  
+- **Infra**: Vercel, PlanetScale, Railway (env-specific)  
+- **Extras**: Dark mode toggle, input validation, role-based access
 
-If you have any questions about Flutter, SwiftUI, JS, HTML, CSS, or React, feel free to ask me. I'm always happy to share my knowledge and help others.
+Everything is modular. Everything is documented. Everything is fast.
 
-## 📫 How to reach me
+---
 
-You can reach me via email at [akshat.arora456@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/akshatarora7/).
+## My Toolbox
 
-## ⚡ Fun fact
+When I build, I reach for tools that are proven, composable, and production-grade.
 
-When I'm not coding, I enjoy playing video games and teach people who struggle with technology. Basically, always in front of my laptop's screen.
 
-## 📊 GitHub Stats
+**Frontend**  
+ReactJS · Next.js · Tailwind · TypeScript · Redux  
+
+**Mobile**  
+Flutter (Bloc, Provider) · React Native · SwiftUI  
+
+**Backend**  
+Node.js · Express · Firebase · Prisma · PostgreSQL · MongoDB  
+
+**Automation & AI**  
+Make.com · GPT-4o · Gemini · Claude · Webhooks · Slack Bots  
+
+**DevOps & Integration**  
+Stripe · GitHub Actions · Vercel · Docker · Cloud Functions  
+
+---
+
+## Core Beliefs
+
+- **Simplicity scales.** Complexity does not.  
+- **Good code explains itself.** Great systems remove the need to explain.  
+- **Everything repeatable should be automated.** Everything else should be refined.  
+- **The best devs are the best teachers.** Knowledge hoarded is momentum wasted.
+
+---
+
+## I Also
+
+- Teach automation, API workflows, and coding fundamentals  
+- Mentor devs transitioning into tech  
+- Write tech content that’s direct, readable, and actually useful  
+  ([Medium](https://medium.com/@akshat.arora456))
+
+---
+
+## Contact
+
+- **Email**: [akshat.arora456@gmail.com](mailto:akshat.arora456@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/akshatarora7](https://www.linkedin.com/in/akshatarora7)
+
+---
+
+## GitHub Insight
 
 ![Akshat Arora's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatarora7&show_icons=true&theme=vue)
 
-Thanks for stopping by!
+---
+
+*Code is a tool. Execution is the edge. Vision is the multiplier.*
